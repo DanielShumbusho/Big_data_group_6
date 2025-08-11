@@ -45,11 +45,10 @@ This repository was jointly built by Group 6 for the class assignment.
 # Members
 
 24843 - SHUMBUSHO UMUTONI Daniel
-27113 - Kabucye Kelly
 26584 - Kwizera Alain
 26747 - Rugambarara Aimé Calvin
 25714 - KOUMBA Esther
 26506 - RUTANGANIRA SHEMA Derrick
-
+27113 - Kabucye Kelly
 
 For future contributions or clarifications, feel free to open issues or reach out to any group member directly.
